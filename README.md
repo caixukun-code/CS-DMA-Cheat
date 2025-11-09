@@ -1,0 +1,1 @@
+This repository contains CS2 DMA Cheats. It appears to be compatible only with the Steam platform; other platforms may require testing on your own. The package includes the main program and radar program. As for the required libraries, you'll need to locate them yourself. Additionally, you will need to update the latest Offsets.hpp and Client.hpp files.
